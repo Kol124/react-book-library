@@ -2,6 +2,8 @@
 
 <a href="https://react-book-library-app.netlify.app" target="_blank"><h2>Demo</a>
  
+<img src="public/screen.png" alt="Screen Shot" />
+ 
 ### Features
 
 - **Voice Search** with Alan AI
