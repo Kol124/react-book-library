@@ -1,6 +1,6 @@
 # React Book Library App with Voice Search
 
-<a href="https://react-book-library-app.netlify.app" target="_blank"><h2>Demo</a>
+<h2><a href="https://react-book-library-app.netlify.app" target="_blank">Demo</a></h2>
  
 <img src="public/screen.png" alt="Screen Shot" />
  
